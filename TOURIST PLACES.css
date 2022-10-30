@@ -1,0 +1,22 @@
+h1{
+    color: green;
+    margin-left: 40%;
+}
+h2{
+    color:red;
+}
+body{
+    background: lightgoldenrodyellow;
+}
+.img-pictures{
+    width: 40%;
+    display: inline;
+    margin-left: 10%;
+
+} 
+.img figure-caption{
+    margin-right: 40%;
+}
+
+
+
