@@ -37,6 +37,12 @@ h1::before{
     border-radius: 5px;
     box-shadow: 3px 3px 5px lightgray;
 }
+.top-content a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 h3{
     height: 100%;
     background-color: rgb(221, 221, 221);
